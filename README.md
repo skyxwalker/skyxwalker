@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ashish</h1>
-<h3 align="center">A passionate Software Engineer Student</h3>
+<h3 align="center">Software Engineer Student</h3>
 
 - 🌱 I’m currently learning **React,Nodejs**
 
