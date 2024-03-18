@@ -17,4 +17,19 @@
 &nbsp;
 
 ## **Languages and Tools**
-[![My Skills](https://skillicons.dev/icons?i=react,nodejs,c,cplusplus,csharp,css3,html5,java,javascript,mssql,mysql,python&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html&perline=4)]()
+[![My Skills](https://skillicons.dev/icons?i=css&perline=4)]()
+[![My Skills](https://skillicons.dev/icons?i=js&perline=4)]()
+[![My Skills](https://skillicons.dev/icons?i=cs&perline=4)](https://dotnet.microsoft.com/en-us/languages/csharp)
+[![My Skills](https://skillicons.dev/icons?i=dotnet&perline=4)](https://dotnet.microsoft.com/en-us/)
+
+[![My Skills](https://skillicons.dev/icons?i=java&perline=4)]()
+[![My Skills](https://skillicons.dev/icons?i=py&perline=4)]()
+[![My Skills](https://skillicons.dev/icons?i=mysql&perline=4)]()
+[![My Skills](https://skillicons.dev/icons?i=visualstudio&perline=4)]()
+[![My Skills](https://skillicons.dev/icons?i=vscode&perline=4)]()
+
+[![My Skills](https://skillicons.dev/icons?i=git&perline=4)]()
+[![My Skills](https://skillicons.dev/icons?i=figma&perline=4)]()
+
+
