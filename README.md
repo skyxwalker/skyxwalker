@@ -3,7 +3,6 @@
 **`a.k.a Skyxwalker | Tech Enthusiast.`** 
 
 ### When life throws bugs at me, I don't squish them—I turn them into features! Who knew being a software engineering student could be this much fun? 
-
 &nbsp;
 
 ## **Languages and Tools**
