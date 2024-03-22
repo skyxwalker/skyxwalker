@@ -21,9 +21,10 @@
 [![My Skills](https://skillicons.dev/icons?i=git&perline=4)](https://git-scm.com/)
 [![My Skills](https://skillicons.dev/icons?i=visualstudio&perline=4)](https://visualstudio.microsoft.com/)
 [![My Skills](https://skillicons.dev/icons?i=vscode&perline=4)](https://code.visualstudio.com/)
-[![My Skills](https://skillicons.dev/icons?i=figma&perline=4)](https://www.figma.com/)
+
 
 <!--
+[![My Skills](https://skillicons.dev/icons?i=figma&perline=4)](https://www.figma.com/)
 [![My Skills](https://skillicons.dev/icons?i=mongodb&perline=4)]()
 [![My Skills](https://skillicons.dev/icons?i=express&perline=4)]()
 [![My Skills](https://skillicons.dev/icons?i=react&perline=4)]()
