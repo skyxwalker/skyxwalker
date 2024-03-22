@@ -11,15 +11,24 @@
 [![My Skills](https://skillicons.dev/icons?i=js&perline=4)]()
 [![My Skills](https://skillicons.dev/icons?i=cs&perline=4)](https://dotnet.microsoft.com/en-us/languages/csharp)
 [![My Skills](https://skillicons.dev/icons?i=dotnet&perline=4)](https://dotnet.microsoft.com/en-us/)
+
 [![My Skills](https://skillicons.dev/icons?i=java&perline=4)](https://www.java.com/en/)
 [![My Skills](https://skillicons.dev/icons?i=py&perline=4)](https://www.python.org/)
-
 [![My Skills](https://skillicons.dev/icons?i=mongodb&perline=4)](https://www.mongodb.com/)
 [![My Skills](https://skillicons.dev/icons?i=mysql&perline=4)]()
 [![My Skills](https://skillicons.dev/icons?i=git&perline=4)](https://git-scm.com/)
+
 [![My Skills](https://skillicons.dev/icons?i=visualstudio&perline=4)](https://visualstudio.microsoft.com/)
 [![My Skills](https://skillicons.dev/icons?i=vscode&perline=4)](https://code.visualstudio.com/)
 [![My Skills](https://skillicons.dev/icons?i=figma&perline=4)](https://www.figma.com/)
+
+<!--
+[![My Skills](https://skillicons.dev/icons?i=mongodb&perline=4)]()
+[![My Skills](https://skillicons.dev/icons?i=express&perline=4)]()
+[![My Skills](https://skillicons.dev/icons?i=react&perline=4)]()
+[![My Skills](https://skillicons.dev/icons?i=nodejs&perline=4)]()
+-->
+
 
 
 
