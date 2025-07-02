@@ -14,8 +14,10 @@
 [![My Skills](https://skillicons.dev/icons?i=cs&perline=4)](https://dotnet.microsoft.com/en-us/languages/csharp)
 [![My Skills](https://skillicons.dev/icons?i=dotnet&perline=4)](https://dotnet.microsoft.com/en-us/)
 [![My Skills](https://skillicons.dev/icons?i=java&perline=4)](https://www.java.com/en/)
-
 [![My Skills](https://skillicons.dev/icons?i=py&perline=4)](https://www.python.org/)
+
+![My Skills](https://skillicons.dev/icons?i=php&perline=4)
+![My Skills](https://skillicons.dev/icons?i=laravel&perline=4)
 [![My Skills](https://skillicons.dev/icons?i=mongodb&perline=4)](https://www.mongodb.com/)
 [![My Skills](https://skillicons.dev/icons?i=mysql&perline=4)]()
 [![My Skills](https://skillicons.dev/icons?i=git&perline=4)](https://git-scm.com/)
