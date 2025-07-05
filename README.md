@@ -40,7 +40,6 @@
 
 <a href="https://github.com/skyxwalker"><img align="left" width="40px" src="https://cdn-icons-png.flaticon.com/512/733/733553.png" /></a> 
 
-<!--<a href="https://open.spotify.com/playlist/yourspotifyplaylist"><img align="left" width="40px" src="https://cdn-icons-png.flaticon.com/512/2585/2585161.png" /></a> -->
 <a href="https://www.instagram.com/ashish_jacob_benson">
   <img align="left" width="40px" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" /> </a> 
 
